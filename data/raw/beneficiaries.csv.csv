@@ -1,0 +1,101 @@
+id,policy_id,name,relationship,date_of_birth
+1,26,Grace Hoffmann,spouse,1982-06-08
+2,25,Ibrahim Silva,spouse,2008-10-23
+3,18,James Smith,spouse,1940-08-20
+4,27,,,2001-04-07
+5,7,,child,2008-11-14
+6,17,Chen Dubois,partner,1973-06-24
+7,37,,parent,2011-05-23
+8,5,,child,1982-06-24
+9,16,Theo Bennett,spouse,1952-12-27
+10,20,Felix Kumar,spouse,2002-10-05
+11,10,Lena Murphy,spouse,1979-02-14
+12,27,,child,1999-05-22
+13,35,Amir Nguyen,spouse,1975-09-17
+14,23,,child,1940-04-02
+15,14,Chloe Sousa,spouse,2000-07-16
+16,4,Hugo Wang,partner,2022-01-14
+17,11,Lena Walker,spouse,2006-08-15
+18,3,,child,1991-04-12
+19,45,,child,2002-11-17
+20,50,Arjun Moreau,spouse,1999-08-01
+21,39,Yusuf Clark,spouse,1948-05-29
+22,13,Alice Martin,partner,1956-03-24
+23,11,,child,1984-02-24
+24,10,Sam Ibrahim,spouse,1955-08-27
+25,1,Jonas Singh,partner,1993-03-18
+26,36,,,1955-10-14
+27,42,,,1952-03-21
+28,31,,parent,1942-09-10
+29,24,,child,1998-02-09
+30,4,Noah Flores,partner,1944-03-16
+31,22,,,1967-04-07
+32,32,Sam Rossi,spouse,1971-05-22
+33,32,,,1979-03-17
+34,47,,,2021-08-26
+35,17,,child,1951-06-21
+36,22,Olivia Taylor,partner,2020-01-16
+37,13,Mohamed Reyes,spouse,1957-12-12
+38,19,,child,2018-07-13
+39,46,,child,1961-02-15
+40,2,,parent,2011-11-26
+41,7,,child,2006-05-05
+42,18,,child,1951-01-20
+43,7,,,1975-07-06
+44,42,Paula Schneider,spouse,1970-09-16
+45,21,,child,1986-11-07
+46,1,Hana Singh,spouse,1942-10-10
+47,22,,child,1992-08-02
+48,49,,child,2019-08-27
+49,35,Laura Jansen,partner,1976-12-13
+50,18,,child,1951-02-25
+51,35,Hugo Singh,spouse,1970-05-20
+52,14,Pedro Kim,partner,2017-09-02
+53,33,Yusuf Martin,spouse,2022-09-21
+54,38,,child,1944-03-15
+55,36,Noah Gomez,spouse,1968-05-27
+56,9,,parent,2010-05-04
+57,8,,,1976-01-22
+58,3,,child,1962-09-03
+59,23,Kai Fischer,partner,1940-01-10
+60,24,,child,1963-09-27
+61,38,,parent,1941-07-08
+62,15,,child,2018-11-20
+63,24,,,1982-11-02
+64,40,Ruby Baker,partner,2010-06-11
+65,26,Rosa Kowalski,spouse,2003-11-17
+66,3,Selin Moreau,spouse,1963-01-29
+67,30,,child,1940-08-12
+68,15,Hugo Patel,partner,1953-11-20
+69,47,Andre Miller,partner,2014-01-15
+70,9,Hugo Jensen,spouse,2000-07-24
+71,32,Elena Silva,partner,2008-10-08
+72,28,Oscar Adams,partner,1965-10-02
+73,49,Ana Carter,spouse,2010-11-12
+74,39,Maria Nakamura,spouse,2013-03-04
+75,26,Marco Wang,spouse,1983-06-18
+76,8,,parent,1952-01-28
+77,41,Mila Larsen,spouse,1972-01-31
+78,45,,child,2010-01-08
+79,4,,child,1954-09-24
+80,48,Lucas Kowalski,spouse,2015-03-15
+81,48,,child,2014-01-21
+82,27,Kai Murphy,spouse,1951-06-30
+83,45,,child,2012-01-27
+84,40,Mohamed Garcia,spouse,1943-03-07
+85,14,Ruby Kowalski,spouse,1946-10-29
+86,17,Mia Silva,partner,2012-04-05
+87,48,Zoe Novak,spouse,1957-09-02
+88,34,,child,1987-04-24
+89,29,,child,2019-04-03
+90,6,,child,1970-09-15
+91,15,,parent,1972-11-12
+92,44,,child,1959-05-27
+93,43,Ravi Chen,spouse,2000-10-08
+94,6,Nadia Johnson,spouse,1954-03-11
+95,46,,child,2003-06-03
+96,12,Jack Reyes,partner,2008-03-13
+97,13,Alice Wang,partner,2000-03-23
+98,11,,child,2007-04-02
+99,43,Chen Jansen,spouse,1951-05-01
+100,6,,child,1953-08-10

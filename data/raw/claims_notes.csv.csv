@@ -1,0 +1,239 @@
+id,claim_id,note,created_at,priority,updated_at
+1,90,The courier reported a standard issue; the ticket was updated.,2023-08-10,low,2023-07-06
+2,1,The reviewer confirmed the details and the delivery was cancelled.,2024-12-04,medium,2023-11-14
+3,14,The claim was completed following a late review.,2024-07-23,low,2024-07-26
+4,59,Flagged as partial. The supplier replaced the request.,2023-04-25,medium,2023-05-08
+5,22,A partial ticket was updated the same day.,2024-08-23,medium,2023-08-09
+6,67,The supplier reported a manual issue; the delivery was closed.,2023-09-15,high,2024-04-07
+7,12,The transfer was updated following a late review.,2024-02-02,high,2023-11-12
+8,34,Flagged as late. The team rejected the transfer.,2023-04-02,low,2024-01-07
+9,68,The courier confirmed the details and the delivery was rescheduled.,2023-01-21,medium,2024-04-14
+10,41,The request was processed after a duplicate check.,2023-08-15,low,2024-01-01
+11,38,"No response from support, so the claim was reviewed.",2023-09-08,high,2024-11-17
+12,21,A duplicate follow-up: the transfer was processed.,2024-07-30,low,2023-02-20
+13,63,"No response from support, so the transfer was reopened.",2024-10-22,low,2023-07-25
+14,51,"The refund was delayed — partial case, no further action.",2024-03-05,low,2023-08-26
+15,85,"The delivery was rejected — urgent case, no further action.",2024-05-27,low,2023-08-20
+16,99,"No response from the supplier, so the account was rejected.",2024-03-20,high,2024-10-17
+17,63,"No response from the account owner, so the record was approved.",2024-11-17,high,2023-08-06
+18,62,The record was reopened following an automatic review.,2023-10-21,low,2024-09-12
+19,92,"No response from the customer, so the ticket was updated.",2024-01-25,medium,2023-10-17
+20,33,"No response from the account owner, so the account was rejected.",2023-02-04,low,2024-10-08
+21,33,The supplier reported a partial issue; the claim was confirmed.,2024-03-08,low,2023-12-28
+22,43,The courier asked for a change and the claim was processed.,2024-08-31,low,2024-09-17
+23,23,The appointment was replaced after a minor check.,2024-12-31,low,2023-04-10
+24,54,A routine follow-up: the request was rejected.,2024-08-24,high,2023-06-14
+25,40,The report was refunded following an unusual review.,2024-06-04,low,2023-07-29
+26,53,A duplicate record was approved the same day.,2024-01-23,high,2023-04-27
+27,77,Support confirmed the details and the session was cancelled.,2024-02-12,low,2023-08-17
+28,50,The reviewer confirmed the details and the invoice was approved.,2023-04-27,medium,2024-07-27
+29,86,An incomplete follow-up: the item was delayed.,2024-01-20,medium,2024-03-04
+30,89,"The booking was reviewed — manual case, no further action.",2024-12-14,medium,2024-01-29
+31,20,A standard appointment was rescheduled the same day.,2024-04-16,low,2024-06-02
+32,77,An urgent payment was closed the same day.,2024-02-09,high,2024-10-12
+33,92,The supplier reported a late issue; the document was escalated.,2024-08-28,low,2024-03-09
+34,81,The order was refunded following a repeat review.,2023-12-28,low,2023-09-15
+35,48,The appointment was closed following a partial review.,2024-08-24,medium,2023-11-15
+36,91,Support reported an urgent issue; the ticket was replaced.,2023-07-29,medium,2024-07-31
+37,71,The team asked for a change and the transfer was replaced.,2024-09-18,high,2024-04-22
+38,88,Flagged as automatic. Support processed the ticket.,2024-10-23,low,2024-06-10
+39,90,The booking was escalated after a repeat check.,2024-08-13,low,2024-04-27
+40,35,"No response from the reviewer, so the item was reviewed.",2024-04-02,low,2024-06-06
+41,62,"No response from the customer, so the booking was updated.",2024-10-07,medium,2023-07-26
+42,50,Flagged as manual. The account owner cancelled the document.,2024-12-21,low,2023-10-06
+43,52,The supplier reported a minor issue; the invoice was reopened.,2024-01-18,medium,2024-04-16
+44,43,A partial account was delayed the same day.,2023-01-10,high,2024-10-22
+45,27,A duplicate invoice was rescheduled the same day.,2024-08-20,high,2024-08-03
+46,54,The team asked for a change and the claim was delayed.,2023-04-01,low,2023-05-17
+47,48,Flagged as repeat. Support rescheduled the delivery.,2023-05-27,low,2024-08-17
+48,99,A standard account was rescheduled the same day.,2023-11-24,medium,2023-08-15
+49,84,A manual follow-up: the item was rescheduled.,2023-11-05,low,2023-12-10
+50,18,"No response from the supplier, so the claim was rejected.",2024-03-01,medium,2024-09-28
+51,7,Flagged as repeat. The team rescheduled the session.,2023-04-06,medium,2024-07-21
+52,20,The account owner confirmed the details and the request was resolved.,2023-12-26,low,2023-03-06
+53,99,An incomplete request was updated the same day.,2023-09-01,medium,2023-01-24
+54,67,The courier confirmed the details and the delivery was reopened.,2024-01-27,low,2023-05-12
+55,52,The courier confirmed the details and the record was replaced.,2023-09-13,low,2024-06-14
+56,62,An operator asked for a change and the session was replaced.,2024-08-01,medium,2023-07-16
+57,4,The account owner reported a standard issue; the claim was reopened.,2024-12-08,high,2023-03-31
+58,78,A manual report was reviewed the same day.,2024-07-18,low,2023-11-16
+59,94,The customer asked for a change and the report was reviewed.,2024-07-06,medium,2023-04-25
+60,83,The claim was approved after an incomplete check.,2024-03-20,medium,2024-05-19
+61,63,A minor shipment was processed the same day.,2023-06-13,low,2024-10-01
+62,64,"The document was rejected — unusual case, no further action.",2024-08-08,low,2023-06-22
+63,48,The order was rejected following an unusual review.,2023-05-21,medium,2023-05-29
+64,51,"No response from an operator, so the session was processed.",2023-03-10,medium,2024-10-23
+65,43,Support reported a manual issue; the booking was reviewed.,2024-07-15,low,2024-04-02
+66,45,A standard follow-up: the claim was escalated.,2024-07-11,high,2023-03-26
+67,40,The document was rescheduled after a routine check.,2024-10-07,high,2023-02-01
+68,1,"No response from the courier, so the account was refunded.",2024-04-18,medium,2024-02-06
+69,49,"No response from the reviewer, so the payment was reviewed.",2024-09-08,high,2024-04-19
+70,83,"No response from the supplier, so the item was processed.",2024-10-10,high,2024-09-23
+71,1,The supplier reported a manual issue; the refund was updated.,2024-06-11,low,2023-08-24
+72,46,The team asked for a change and the payment was refunded.,2024-08-05,low,2024-06-11
+73,32,The ticket was completed following a repeat review.,2024-12-21,medium,2023-08-01
+74,75,The account was rejected after a standard check.,2023-07-02,medium,2024-02-25
+75,8,"The record was replaced — automatic case, no further action.",2024-10-18,low,2023-02-13
+76,35,"No response from the team, so the document was escalated.",2024-03-16,low,2023-07-21
+77,37,"The booking was processed — partial case, no further action.",2024-03-11,low,2024-05-18
+78,45,The reviewer reported a minor issue; the invoice was escalated.,2024-05-24,low,2024-11-07
+79,5,The courier confirmed the details and the record was refunded.,2023-07-04,medium,2024-11-13
+80,82,"No response from the supplier, so the appointment was refunded.",2024-02-18,low,2024-07-21
+81,65,A partial report was delayed the same day.,2023-05-08,high,2024-05-01
+82,91,Support confirmed the details and the record was reopened.,2024-12-02,low,2024-12-27
+83,14,An operator reported a routine issue; the booking was rejected.,2024-11-01,low,2023-08-05
+84,65,An unusual request was closed the same day.,2023-07-02,medium,2023-11-27
+85,81,An unusual follow-up: the appointment was rejected.,2024-08-28,high,2023-03-19
+86,2,"The item was delayed — standard case, no further action.",2024-11-15,low,2023-01-27
+87,95,The appointment was reopened following an urgent review.,2023-03-07,low,2023-01-09
+88,39,The order was reopened following a duplicate review.,2023-09-04,high,2024-07-05
+89,20,The invoice was rescheduled after a standard check.,2024-05-01,low,2024-06-10
+90,84,"No response from an operator, so the booking was approved.",2024-11-27,low,2023-01-18
+91,63,"The appointment was approved — duplicate case, no further action.",2024-01-15,low,2023-11-03
+92,48,"No response from support, so the transfer was escalated.",2023-08-05,medium,2023-12-15
+93,54,The team asked for a change and the appointment was resolved.,2024-04-08,medium,2023-09-19
+94,97,The courier confirmed the details and the account was closed.,2024-01-01,medium,2024-01-07
+95,61,A duplicate invoice was approved the same day.,2024-06-24,low,2023-10-25
+96,93,The courier confirmed the details and the account was replaced.,2023-09-23,high,2024-02-23
+97,31,"The booking was reopened — automatic case, no further action.",2024-10-21,low,2023-01-06
+98,92,The transfer was processed following a partial review.,2024-12-16,low,2023-05-10
+99,30,Flagged as unusual. The customer reopened the ticket.,2024-04-08,low,2023-07-05
+100,49,Flagged as partial. The team cancelled the ticket.,2024-11-26,medium,2024-01-18
+101,46,An operator reported a routine issue; the account was completed.,2023-12-20,low,2023-05-26
+102,17,The supplier asked for a change and the session was approved.,2023-10-13,low,2024-11-16
+103,99,A standard shipment was reviewed the same day.,2023-05-13,low,2024-08-02
+104,28,The reviewer asked for a change and the item was refunded.,2023-07-12,low,2023-06-20
+105,84,The supplier reported an urgent issue; the order was escalated.,2023-09-20,low,2023-07-10
+106,24,The payment was refunded following an automatic review.,2024-03-19,medium,2024-10-03
+107,80,The report was rescheduled after a manual check.,2024-01-20,low,2023-05-04
+108,13,The team reported a partial issue; the account was closed.,2024-11-22,low,2024-05-13
+109,1,"No response from the courier, so the document was rejected.",2024-04-14,low,2023-03-28
+110,33,A minor item was refunded the same day.,2023-05-12,low,2024-03-30
+111,40,The appointment was completed following a repeat review.,2024-05-23,low,2024-03-05
+112,2,An operator asked for a change and the appointment was reviewed.,2023-10-03,low,2023-11-22
+113,54,The account owner confirmed the details and the booking was escalated.,2024-10-25,medium,2023-01-21
+114,36,An operator reported a partial issue; the item was refunded.,2024-09-07,low,2023-06-12
+115,15,"The payment was rejected — repeat case, no further action.",2023-06-19,high,2023-06-20
+116,61,The supplier asked for a change and the request was reviewed.,2023-08-07,medium,2023-04-28
+117,70,The document was delayed following a duplicate review.,2023-03-29,high,2023-07-12
+118,12,"No response from the reviewer, so the ticket was rejected.",2024-11-26,high,2023-03-11
+119,80,The customer asked for a change and the payment was updated.,2024-04-16,low,2023-11-15
+120,6,Flagged as duplicate. Support resolved the record.,2023-11-06,high,2024-09-26
+121,52,The refund was confirmed following an unusual review.,2024-01-10,high,2024-10-31
+122,31,The reviewer asked for a change and the document was refunded.,2024-07-04,medium,2023-08-12
+123,55,Flagged as routine. An operator updated the booking.,2023-03-13,low,2024-08-20
+124,32,"The account was reopened — late case, no further action.",2024-05-09,low,2023-10-18
+125,77,The team confirmed the details and the session was resolved.,2023-07-03,medium,2024-11-11
+126,83,"No response from the courier, so the delivery was resolved.",2024-09-30,medium,2023-09-25
+127,41,"The delivery was delayed — unusual case, no further action.",2024-06-30,low,2023-05-24
+128,1,The account owner confirmed the details and the account was confirmed.,2024-06-10,medium,2023-10-05
+129,84,"The report was reviewed — incomplete case, no further action.",2023-03-04,medium,2024-03-07
+130,22,"The ticket was delayed — minor case, no further action.",2023-10-14,medium,2023-09-28
+131,81,The reviewer asked for a change and the claim was processed.,2024-07-05,low,2024-02-22
+132,40,The team confirmed the details and the order was reopened.,2023-04-22,low,2023-01-14
+133,37,"The delivery was cancelled — partial case, no further action.",2024-05-02,medium,2024-06-01
+134,87,Flagged as duplicate. Support reviewed the document.,2024-01-18,medium,2024-04-11
+135,88,"No response from the supplier, so the report was rejected.",2024-12-09,medium,2024-01-23
+136,90,An operator asked for a change and the document was confirmed.,2023-10-30,medium,2024-06-12
+137,98,An operator reported a late issue; the document was updated.,2024-04-03,medium,2023-12-15
+138,39,A partial follow-up: the invoice was completed.,2023-11-20,low,2024-03-31
+139,50,The customer asked for a change and the booking was approved.,2024-01-06,low,2023-11-09
+140,38,"The ticket was closed — routine case, no further action.",2024-12-28,high,2023-05-25
+141,38,The item was escalated following a duplicate review.,2023-04-03,low,2023-03-17
+142,92,The supplier asked for a change and the order was resolved.,2023-09-23,medium,2023-02-04
+143,15,The reviewer confirmed the details and the item was reviewed.,2024-12-14,low,2023-10-31
+144,97,The courier reported a late issue; the shipment was processed.,2024-01-12,high,2023-08-20
+145,63,"No response from an operator, so the claim was rescheduled.",2024-06-29,medium,2024-08-13
+146,57,The supplier confirmed the details and the request was refunded.,2023-06-07,low,2024-09-20
+147,56,An operator confirmed the details and the request was replaced.,2024-04-06,low,2023-12-07
+148,20,The booking was rejected after an incomplete check.,2024-02-21,low,2023-01-08
+149,78,A duplicate record was rejected the same day.,2023-07-01,low,2023-03-19
+150,77,Flagged as repeat. The team rejected the shipment.,2023-07-02,low,2024-03-20
+151,35,Flagged as minor. The account owner cancelled the request.,2024-12-14,low,2023-01-31
+152,86,A partial follow-up: the refund was completed.,2024-11-11,low,2024-10-15
+153,79,"No response from the courier, so the record was reopened.",2024-12-15,medium,2023-10-13
+154,87,The team confirmed the details and the report was rescheduled.,2024-09-27,low,2023-11-16
+155,6,A minor follow-up: the refund was cancelled.,2023-07-01,low,2023-02-24
+156,15,The account owner reported a late issue; the appointment was rescheduled.,2023-01-18,medium,2024-05-26
+157,87,Flagged as automatic. The courier replaced the appointment.,2024-03-01,medium,2024-04-29
+158,14,The reviewer reported a repeat issue; the request was refunded.,2023-07-09,low,2024-10-16
+159,45,A repeat order was closed the same day.,2023-04-02,high,2023-02-02
+160,67,An incomplete follow-up: the session was reopened.,2024-10-14,high,2024-04-21
+161,85,The shipment was updated after a standard check.,2024-11-06,low,2024-08-04
+162,78,An automatic follow-up: the item was closed.,2024-02-01,low,2024-03-22
+163,81,"No response from the account owner, so the account was replaced.",2024-09-06,low,2023-06-21
+164,75,The account owner confirmed the details and the account was rescheduled.,2024-02-29,high,2023-11-01
+165,91,The customer reported a duplicate issue; the order was escalated.,2023-12-30,high,2023-02-27
+166,27,The team reported a duplicate issue; the session was completed.,2024-08-21,low,2024-11-18
+167,51,The account owner reported a routine issue; the account was cancelled.,2024-12-02,medium,2024-12-07
+168,34,"No response from the courier, so the shipment was rejected.",2023-09-28,low,2023-12-16
+169,12,"No response from support, so the order was resolved.",2024-09-07,low,2023-03-18
+170,20,The customer confirmed the details and the refund was processed.,2023-06-29,high,2024-01-09
+171,22,A late follow-up: the payment was processed.,2023-06-03,high,2023-06-01
+172,5,The report was confirmed following an urgent review.,2024-09-21,low,2024-06-22
+173,86,Support confirmed the details and the refund was resolved.,2023-08-28,low,2024-11-07
+174,68,An unusual report was delayed the same day.,2024-12-01,low,2024-11-12
+175,65,The supplier reported a duplicate issue; the transfer was escalated.,2024-07-28,low,2024-03-16
+176,58,"The claim was rejected — minor case, no further action.",2024-09-04,medium,2023-03-08
+177,30,The account owner confirmed the details and the invoice was resolved.,2023-04-11,medium,2024-01-16
+178,24,The invoice was replaced after an automatic check.,2024-12-29,low,2024-05-20
+179,26,A partial follow-up: the order was cancelled.,2024-09-06,medium,2024-07-05
+180,14,The reviewer asked for a change and the document was closed.,2023-12-25,medium,2023-07-16
+181,62,Support confirmed the details and the shipment was reviewed.,2024-02-04,low,2023-06-02
+182,91,Flagged as repeat. The courier updated the shipment.,2024-05-19,low,2023-10-27
+183,51,"No response from an operator, so the order was cancelled.",2024-05-13,low,2023-08-11
+184,38,"No response from the reviewer, so the invoice was refunded.",2024-03-12,low,2024-06-12
+185,26,A partial follow-up: the ticket was completed.,2023-06-10,low,2024-12-26
+186,80,"No response from the reviewer, so the invoice was rescheduled.",2024-10-19,low,2024-10-01
+187,30,The delivery was confirmed after an urgent check.,2023-04-01,low,2023-06-03
+188,18,The account owner asked for a change and the payment was replaced.,2023-05-10,low,2023-08-24
+189,54,An automatic transfer was completed the same day.,2024-10-26,low,2023-03-27
+190,93,"The item was delayed — unusual case, no further action.",2024-10-03,low,2024-07-19
+191,89,"No response from support, so the account was reopened.",2023-10-05,high,2023-02-26
+192,69,The team asked for a change and the shipment was rejected.,2024-02-11,low,2023-02-01
+193,62,An operator confirmed the details and the shipment was processed.,2024-10-26,high,2023-03-11
+194,74,The invoice was processed following a routine review.,2024-12-01,low,2024-03-08
+195,5,"The order was approved — late case, no further action.",2024-08-15,high,2023-05-29
+196,85,Flagged as urgent. The customer rejected the report.,2023-11-26,low,2024-03-12
+197,15,The supplier asked for a change and the request was closed.,2024-11-22,high,2024-11-23
+198,34,An automatic follow-up: the transfer was closed.,2024-01-12,high,2023-10-25
+199,33,The team reported a repeat issue; the refund was resolved.,2024-10-30,low,2023-11-20
+200,89,The customer reported a routine issue; the appointment was processed.,2024-06-04,low,2024-01-05
+201,68,"The delivery was closed — standard case, no further action.",2024-05-04,high,2024-08-10
+202,42,"No response from the supplier, so the refund was reopened.",2024-10-02,low,2023-07-14
+203,94,The customer reported a partial issue; the appointment was completed.,2023-06-19,medium,2023-05-26
+204,12,A manual item was replaced the same day.,2024-06-18,medium,2023-10-26
+205,36,"The invoice was reopened — automatic case, no further action.",2024-04-21,low,2024-02-29
+206,12,Flagged as repeat. An operator cancelled the invoice.,2024-11-03,high,2023-11-30
+207,51,"The record was escalated — late case, no further action.",2024-09-19,low,2023-05-26
+208,26,The courier confirmed the details and the refund was replaced.,2023-07-31,medium,2023-02-05
+209,41,The shipment was cancelled after a standard check.,2024-10-09,high,2024-05-04
+210,95,The account owner reported a routine issue; the document was cancelled.,2023-07-28,low,2023-11-08
+211,90,The customer reported a routine issue; the document was replaced.,2024-09-07,low,2023-01-30
+212,52,"The account was confirmed — standard case, no further action.",2023-04-08,medium,2023-02-07
+213,34,A repeat follow-up: the booking was updated.,2024-10-29,high,2024-07-25
+214,21,"No response from the supplier, so the document was rejected.",2024-04-04,medium,2024-10-30
+215,49,The report was resolved after a duplicate check.,2024-11-07,medium,2024-05-05
+216,77,Flagged as duplicate. The customer completed the record.,2023-12-15,high,2023-12-30
+217,85,The request was reviewed after an urgent check.,2023-10-10,high,2023-01-01
+218,39,"No response from the customer, so the booking was confirmed.",2024-04-08,medium,2023-12-15
+219,67,The delivery was cancelled following a partial review.,2024-10-26,low,2024-01-19
+220,45,The ticket was closed following a manual review.,2024-02-08,medium,2024-08-06
+221,89,The team reported a late issue; the claim was confirmed.,2024-01-04,medium,2023-10-24
+222,35,The account owner asked for a change and the claim was resolved.,2024-03-12,low,2024-08-03
+223,15,An incomplete order was refunded the same day.,2024-10-02,low,2024-01-04
+224,23,"The invoice was updated — partial case, no further action.",2024-09-02,medium,2024-01-28
+225,74,Support reported a routine issue; the claim was approved.,2024-04-29,low,2023-02-03
+226,21,The account owner reported a repeat issue; the booking was updated.,2024-07-13,low,2023-06-28
+227,98,The reviewer asked for a change and the shipment was closed.,2023-01-04,low,2023-07-21
+228,8,The reviewer asked for a change and the appointment was rescheduled.,2024-04-22,low,2023-11-28
+229,33,The order was resolved after an urgent check.,2024-11-17,low,2023-06-10
+230,90,An operator asked for a change and the account was replaced.,2024-06-23,low,2024-06-02
+231,31,Flagged as standard. The team reviewed the appointment.,2024-07-09,medium,2024-08-28
+232,39,The customer reported a repeat issue; the record was closed.,2024-08-16,high,2024-02-09
+233,86,An operator confirmed the details and the ticket was confirmed.,2024-03-27,high,2024-11-30
+234,67,"The delivery was resolved — incomplete case, no further action.",2023-05-31,low,2023-10-24
+235,36,"The shipment was completed — incomplete case, no further action.",2024-06-12,low,2023-08-12
+236,94,A duplicate follow-up: the document was completed.,2023-11-27,low,2023-04-17
+237,85,"No response from the courier, so the payment was resolved.",2023-03-23,low,2024-01-22
+238,13,"The report was updated — routine case, no further action.",2024-08-25,low,2023-04-02

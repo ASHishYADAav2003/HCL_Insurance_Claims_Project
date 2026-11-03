@@ -218,3 +218,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.env
+# Environment variables and secrets
+.env
+.env.*
+
+# Python virtual environments
+.venv/
+.venv-linux/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
